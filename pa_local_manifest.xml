@@ -11,7 +11,7 @@
  <project name="RevenRelay/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-11.0" />
 
  <!-- Kernel -->
- <project name="B14CKB1RD-Kernel/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="github" revision="relay4g" />
+ <project name="B14CKB1RD-Kernel/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="github" revision="Relay4g" />
 
  <!-- Blobz -->
  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-11.0" />
