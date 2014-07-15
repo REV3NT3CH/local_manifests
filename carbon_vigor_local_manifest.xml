@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- HTC REZOUND -->
+  <project path="device/htc/vigor" name="REV3NT3CH/device_htc_vigor" remote="gh" revision="cm-11.0" />
+  <project path="device/htc/msm8660-common" name="vigor/android_device_htc_msm8660-common" remote="gh" revision="cm-11.0_hybrid" />
+  <project path="kernel/htc/vigor-3.0" name="Bunchies101/Kitten_Kernel" remote="gh" revision="master" />
+  <project path="hardware/qcom/display-legacy" name="vigor/android_hardware_qcom_display-legacy" remote="gh" revision="cm-11.0_hybrid" />
+  <project path="hardware/qcom/media-legacy" name="vigor/android_hardware_qcom_media-legacy" remote="gh" revision="cm-11.0_hybrid" />
+  <project path="vendor/htc/vigor" name="vigor/vendor_htc_vigor" remote="gh" revision="cm-11.0_hybrid" />
+  <project name="CyanogenMod/android_packages_apps_Apollo" path="packages/apps/Apollo" remote="gh" revision="cm-11.0" />
+  <project name="CyanogenMod/android_packages_apps_Calendar" path="packages/apps/Calendar" remote="gh" revision="cm-11.0" />
+
+</manifest>
