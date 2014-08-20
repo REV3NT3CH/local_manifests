@@ -5,5 +5,5 @@
  <!-- Adds -->
   <project path="vendor/pa" name="REV3NT3CH/android_vendor_pa" remote="github" revision="kitkat" />
  <!-- Device -->
- <project name="TeamRelay4g/android_device_samsung_apexqtmo" path="device/samsung/apexqtmo" remote="github" revision="aospa" />
+ <project name="RelayTest/android_device_samsung_apexqtmo" path="device/samsung/apexqtmo" remote="github" revision="aospa" />
 </manifest>
