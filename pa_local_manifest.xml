@@ -3,7 +3,7 @@
  <!-- Removes -->
   <remove-project path="vendor/pa" name="AOSPA/android_vendor_pa" remote="github" revision="kitkat" />
  <!-- Adds -->
-  <project path="vendor/pa" name="REV3NT3CH/android_vendor_pa" remote="github" revision="kitkat" />
+  <project path="vendor/pa" name="RelayTest/android_vendor_pa" remote="github" revision="kitkat" />
  <!-- Device -->
  <project name="RelayTest/android_device_samsung_apexqtmo" path="device/samsung/apexqtmo" remote="github" revision="aospa" />
 </manifest>
