@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  <!-- Removes -->
-  <remove-project path="vendor/pa" name="AOSPA/android_vendor_pa" remote="github" revision="kitkat" />
+  <remove-project path="vendor/pa" name="AOSPA-legacy/android_vendor_pa" remote="github" revision="kitkat" />
  <!-- Adds -->
   <project path="vendor/pa" name="RelayTest/android_vendor_pa" remote="github" revision="kitkat" />
  <!-- Device -->
