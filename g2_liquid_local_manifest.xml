@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- Device -->
+  <project name="G2Liquid/android_device_lge_d800" path="device/lge/d800" remote="gh" revision="lollipop" />
+  <project name="G2Liquid/android_device_lge_d801" path="device/lge/d801" remote="gh" revision="lollipop" />
+  <project name="G2Liquid/android_device_lge_d802" path="device/lge/d802" remote="gh" revision="lollipop" />
+  <project name="G2Liquid/android_device_lge_d803" path="device/lge/d803" remote="gh" revision="lollipop" />
+  <project name="G2Liquid/android_device_lge_f320" path="device/lge/f320" remote="gh" revision="lollipop" />
+  <project name="G2Liquid/android_device_lge_ls980" path="device/lge/ls980" remote="gh" revision="lollipop" />
+  <project name="G2Liquid/android_device_lge_vs980" path="device/lge/vs980" remote="gh" revision="lollipop" />
+  <project name="G2Liquid/android_device_qcom_common" path="device/qcom/common" remote="gh" revision="lollipop" />
+  <project name="G2Liquid/android_device_lge_g2-common" path="device/lge/g2-common" remote="gh" revision="lollipop" />
+
+ <!-- Kernel -->
+  <project name="B14CKB1RD-Kernel/B14CKB1RD_Kernel_G2" path="kernel/lge/msm8974" remote="gh" revision="lollipop" />
+
+ <!-- Blobz -->
+  <project name="G2Liquid/android_platform_vendor_lge" path="vendor/lge" remote="gh" revision="lollipop" />
+
+ <!-- Toolchain -->
+  <project  name="B14CKB1RD-Kernel/linaro-arm-eabi-4.10" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.10-linaro" remote="gh" revision="master" />
+
+ </manifest>
