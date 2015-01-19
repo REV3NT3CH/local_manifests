@@ -14,10 +14,10 @@
  <!-- Kernel -->
   <project name="B14CKB1RD-Kernel/B14CKB1RD_Kernel_G2" path="kernel/lge/msm8974" remote="gh" revision="lollipop" />
 
+ <!-- Kernel Toolchain -->
+  <project name="B14CKB1RD-Kernel/linaro-arm-eabi-4.10" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.10-linaro" remote="gh" revision="master" />
+
  <!-- Blobz -->
   <project name="G2Liquid/android_platform_vendor_lge" path="vendor/lge" remote="gh" revision="lollipop" />
-
- <!-- Toolchain -->
-  <project  name="B14CKB1RD-Kernel/linaro-arm-eabi-4.10" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.10-linaro" remote="gh" revision="master" />
 
  </manifest>
