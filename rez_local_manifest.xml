@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="VigorousRevival/device_htc_vigor" path="device/htc/vigor" remote="github" revision="cm-12.0" />
+  <project name="VigorousRevival/vigor_aosp_kernel" path="kernel/htc/vigor-3.0" remote="github" revision="cm-12.0" />
+  <project name="VigorousRevival/vendor_htc_vigor" path="vendor/htc/vigor" remote="github" revision="cm-12.0" />
+  <project name="VigorousRevival/hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8660" remote="github" revision="c5.1" />
+  <project name="VigorousRevival/hardware_qcom_display" path="hardware/qcom/display-caf/msm8660" remote="github" revision="c5.1" />
+  <project name="VigorousRevival/hardware_qcom_media" path="hardware/qcom/media-caf/msm8660" remote="github" revision="c5.1" />
+</manifest>
