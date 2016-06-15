@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Nexus 6 -->
+  <project name="REV3NT3CH/device_moto_shamu" path="device/moto/shamu" remote="github" revision="c6" />
+  <project name="AICP/kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="mm6.0" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-13.0" />
+
+</manifest>
