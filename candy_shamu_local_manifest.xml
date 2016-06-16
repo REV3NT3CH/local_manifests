@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>		
 <manifest>
+
+  <remote name="bb"
+          fetch="https://bitbucket.org/" />
+
 <!-- Nexus 6 -->
   <project name="REV3NT3CH/device_moto_shamu" path="device/moto/shamu" remote="github" revision="c6" />
-  <project name="AICP/kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="mm6.0" />
+  <project name="B14CKB1RD-Kernel/B14CKB1RD_Kernel_N6" path="kernel/moto/shamu" remote="github" revision="mm6.0" />
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-13.0" />
+  <project name="hyper-toolchains/arm-eabi-6.x" path="prebuilts/gcc/linux-x86/arm/arm-eabi-6.x-hyper" remote="bb" revision="UxSM" />
 
 </manifest>
